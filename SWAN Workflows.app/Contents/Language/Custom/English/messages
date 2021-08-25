@@ -1,0 +1,27 @@
+28|Item on reserve--may not be checked in| You tried to discharge an item that was in the reserve collection and not cha
+rged out.|   #Academic Reserves
+205|Checked In| The item has been successfully discharged.|
+560|Item was not checked in, override to clear charge| The item being charged is still checked out. An override will cle
+ar the charge and forgive any fines.|
+963|Booking has been charged or checked in or expired, cannot be edited| The item is checkedout or discharged or expired
+ now and cannot be edited.|   #Booking
+1080|Item checked in; needs to be transferred to current library||
+1153|Reservation has been checked out or checked in, cannot be edited| The item is checkedout or discharged now and cannot be edited.|   #Booking
+1684|  $<charges:u> will be selected if the checkin date/time is ||
+1685|  $<charges:u> will be selected if the checkin library is ||
+1807|Invalid Date of Checkin|Wslib message|
+4140|  The date/time checked in will be changed to ||
+4141|  The checkin library will be changed to ||
+14286|Error messages from failed CHECKIN ITEM transactions are found in the file |generic sirsiecho statement|
+14388|Items not checked in are listed in the first page of the report result.|longoverdue sirsiecho statement|
+14389|None of the selected records qualify for CHECKIN.|longoverdue sirsiecho statement|
+15392|Checkin BWI Ebooks|bwirelease title|
+16217|You must identify an item for checkin.|message for Circwfs tab file|
+16231|Error in checkin.|message for Circwfs tab file|
+18104|Material checked in||
+18119|Checkin was cancelled.||
+18124|There is a problem with this checkin. See Librarian.||
+18784|Improper Checkin||  #Discharge BWI ebooks
+19603|Checkin items|DESC for discitem|
+23103|Cannot renew item at this time. This item may be available for renewal after: ||
+17286|Hold not allowed. ||

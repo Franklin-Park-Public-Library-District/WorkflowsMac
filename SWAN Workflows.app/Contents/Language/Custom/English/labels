@@ -1,0 +1,127 @@
+##Anne's format labels(temporarily custom)
+bkgx_othr_note||Note|
+bkgx_othr_comm||Comment|
+user_cat1||Gender| 
+user_cat2||Age Group|
+user_cat3||Type|
+user_cat4||Internet|
+user_cat5||Grade Level|
+user_cat7||ILL|
+user_cat8||Non-SWAN RB|
+user_cat9||Library Defined|
+user_cat10||Notice Preference|
+user_cat11||Hold Pickup Preference|
+P1203_cs||Gender|
+P1203||Gender|
+P1204_cs||Age Group|
+P1204||Age Group|
+user_cat_1_cs||Gender|
+user_cat_1||Gender|
+user_cat_2_cs||Age Group|
+user_cat_2||Age Group|
+user_cat_3_cs||Type|
+user_cat_3||Type|
+user_cat_4_cs||Internet|
+user_cat_4||Internet|
+user_cat_5_cs||Grade Level|
+user_cat_5||Grade Level|
+user_cat_7_cs||ILL|
+user_cat_7||ILL|
+user_cat_8_cs||Non-SWAN RB|
+user_cat_8||Non-SWAN RB|
+user_cat_9_cs||Library Defined|
+user_cat_9||Library Defined|
+user_cat_10_cs||Notice Preference|
+user_cat_10||Notice Preference|
+user_cat_11_cs||Hold Pickup Preference|
+user_cat_11||Hold Pickup Preference|
+receipt_field_date_discharged||Date checked in|
+allow_future_dates||Allow checkin dates in the future|
+clear_date_of_discgarge||Clear date of checkin|
+clear_discharge_list_button||Clear;Checkin List|
+date_discharged||date checked in|
+date_last_discharged||date last checkin|
+D171||date of checkin|
+datacode_CO||date of checkin|
+datacode_Id||date time last checkin|
+date_time_discharged||Date/Time Checked in|
+discharge||checkin|
+discharge_groupcirc_prop||Checkin all items associated with set|
+prompt_clearcharge_cs||Checkin Already Charged Items With Override|
+prompt_clearcharge||checkin already charged items with override|
+auto_clearcharge_cs||Checkin Already Charged Items Without Override|
+auto_clearcharge||checkin already charged items without override|
+nsbutton_discharge_another||Checkin Another|
+discharge_bookings_balloon||Checkin Bookings| #JWF Booking
+discharge_bookings_flyby||Checkin Bookings| #JWF Booking
+discharge_bookings_title||Checkin Bookings| #JWF Booking
+cmdcode_EV||Checkin Item|
+cmdcode_En||Checkin Item|
+cmdcode_Ek||Checkin Booking|
+discharge_bookings||Checkin Bookings|
+discharge_bwi||Checkin BWI ebooks|
+discharge_item_balloon_help||Checkin Item|  #Offline client
+discharge_item_flyby_help||Checkin Item|    #Offline client
+discharge_item||Checkin Item|               #Offline client
+discharge_items_for||Checkin Items For|
+discharge_library||checkin library|
+discharge_print||checkin printing| # Offline discharge wizard
+discharge_recorded||Checkin Recorded|
+K23||Checkin this item| #Booking
+datacode_CK||checkin user ID|
+datacode_CL||checkin user name|
+discharged||checked in|
+circ_disch_wfsf_balloon||Checkin| #old local
+discharged_from_uc||CHECKED IN FROM|
+discharged_from||Checked in from|
+discharge_item_button||Checkin;Item|
+discharge_this_item_button||Checkin;This Item|
+do_not_discharge_this_item||Do not checkin this item| #OPACmanager
+do_you_want_to_discharge_this_lost_item||Do you want to checkin this lost item ?|
+no_clearcharge||Don't Checkin Already Charged Items When Charging Again|
+enter_date_of_discharge||Enter Date of Checkin|
+dischargingFineFree||Fine Free Checkin|
+circ_disch_fine_free_wfsf_balloon||Fine Free Checkin|
+item_discharged||Item Checked in|               (: ) #Followed by Item ID
+datacode_lQ||items checkin list|
+hw_last_discharged||Last checked in| #HatWrapper
+last_discharged||last checked in|
+list_of_discharges_cs||List of Checkins|
+list_of_discharges||list of checkins|
+long_ovrdue_not_discharged||Long Overdue Items Not Checked In|
+maximum_fee_dischg_charge||Maximum fee is based on checkin date and charge date|
+maximum_fee_dischg_loan||Maximum fee is based on checkin date and loan period|
+maximum_fee_dischg||Maximum fee is based on checkin date only|
+maximum_fee_full||Maximum fee policy is based on checkin date, charge date, loan period.|
+multiple_parts_override||Multiple parts override for CHECKIN ITEM||
+offl_discharge_item||Offline Checkin Item|  #Offline client
+circ_eph_wfsf_flyby||Paperback charge/immediate checkin| #old local
+play_sound_discharge_alert||Play sound for Checkin alert|
+print_discharge_receipts||Print checkin receipts| #Offline discharge wizard
+checkin_cs||Checkin| #Context menu option
+discharging||Checkin| #Toolbar
+circ_disch_wfsf_balloon||Checkin| #toolbar
+dischargingFineFree||Fine Free Checkin| #toolbar
+circ_disch_fine_free_wfsf_balloon||Fine Free Checkin| #toolbar
+discharging_bookdrop||Checkin Bookdrop| #toolbar
+circ_drop_wfsf_balloon||Checkin Bookdrop| #toolbar
+renew_user||Renew by User| #toolbar
+renew_item||Renew by Item| #toolbar
+P470||Update Options|
+P634||Max records to update|
+P475||Mark for indexing|
+P1112||Update item records|
+total_fines_bills||TOTAL AMOUNT DUE FOR THE ABOVE|
+manage_hold_shelf||Manage Hold Shelf|
+multi_recv_order||Receive Multiple Orders|
+add_packing_list_items||Add Packing List Items to Catalog|
+sum_of_checked_out_items_price_rcpt_label||Total amount saved by using your library today|
+# Change "Days old" for custom reports.
+P292||Number of days|
+# Change "User File Selection" for custom reports.
+P1210||File Selection|
+charge_receipt_header||The following items are checked out:|
+# Change "User File Selection" for custom reports.
+charge_receipt_footer||Please note that the list above may only include today's checkouts and not material previously checked out to your account. If you have any questions, please contact us.|
+P1210||File Selection|
+

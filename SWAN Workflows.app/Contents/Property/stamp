@@ -1,0 +1,9 @@
+ENGLISH_DELIV_MESSAGE|languagedir|English|messages|Y|Language/Deliv/English|messages|7622|MESSAGES|
+ENGLISH_DELIV_LABEL|languagedir|English|labels|Y|Language/Deliv/English|labels|7622|LABELS|
+ENGLISH_CUSTOM_LABEL|languagecustomdir|English|labels|Y|Language/Custom/English|labels|20706|LABELS|
+CUSTOM|clients|Custom|custom.jar|Y||new_custom.jar||CUSTOM|
+LOGO|clients|Custom|customlogo.gif|Y|Images|customlogo.gif|1099|LOGO|
+UPDATE|clients||WorkFlowsInstall.dmg|Y||WorkFlowsInstall.dmg||WF_UPDATE|
+ENGLISH_CUSTOM_MESSAGE|languagecustomdir|English|messages|Y|Language/Custom/English|messages|18469|MESSAGES|
+WIZARDS|clients||wizards.jar|Y||||WIZARDS|
+SCREENS|clients||screens.jar|Y||||SCREENS|
